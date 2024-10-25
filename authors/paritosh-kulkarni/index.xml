@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paritosh Kulkarni | Aaryaman (jam) Vasishta</title>
+    <link>https://jammm.github.io/authors/paritosh-kulkarni/</link>
+      <atom:link href="https://jammm.github.io/authors/paritosh-kulkarni/index.xml" rel="self" type="application/rss+xml" />
+    <description>Paritosh Kulkarni</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 09 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Paritosh Kulkarni</title>
+      <link>https://jammm.github.io/authors/paritosh-kulkarni/</link>
+    </image>
+    
+    <item>
+      <title>HIPRT: A Ray Tracing Framework in HIP</title>
+      <link>https://jammm.github.io/publication/hiprt2024/</link>
+      <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://jammm.github.io/publication/hiprt2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
