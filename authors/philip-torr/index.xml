@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Philip Torr | Aaryaman (jam) Vasishta</title>
+    <link>https://jammm.github.io/authors/philip-torr/</link>
+      <atom:link href="https://jammm.github.io/authors/philip-torr/index.xml" rel="self" type="application/rss+xml" />
+    <description>Philip Torr</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Philip Torr</title>
+      <link>https://jammm.github.io/authors/philip-torr/</link>
+    </image>
+    
+    <item>
+      <title>Stable Virtual Camera: Generative View Synthesis with Diffusion Models</title>
+      <link>https://jammm.github.io/publication/seva2025/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://jammm.github.io/publication/seva2025/</guid>
+      <description>&lt;p&gt;.&lt;/p&gt;
+&lt;h1 id=&#34;otherwise-set-slides-&#34;&gt;Otherwise, set &lt;code&gt;slides: &amp;quot;&amp;quot;&lt;/code&gt;.&lt;/h1&gt;
+&lt;p&gt;slides: &#39;&amp;rsquo;
+&amp;mdash;.&lt;/p&gt;
+&lt;h1 id=&#34;otherwise-set-slides--1&#34;&gt;Otherwise, set &lt;code&gt;slides: &amp;quot;&amp;quot;&lt;/code&gt;.&lt;/h1&gt;
+&lt;p&gt;slides: &#39;&amp;rsquo;
+&amp;mdash;.&lt;/p&gt;
+&lt;h1 id=&#34;otherwise-set-slides--2&#34;&gt;Otherwise, set &lt;code&gt;slides: &amp;quot;&amp;quot;&lt;/code&gt;.&lt;/h1&gt;
+&lt;p&gt;slides: &#39;&amp;rsquo;
+&amp;mdash;.&lt;/p&gt;
+&lt;h1 id=&#34;otherwise-set-slides--3&#34;&gt;Otherwise, set &lt;code&gt;slides: &amp;quot;&amp;quot;&lt;/code&gt;.&lt;/h1&gt;
+&lt;p&gt;slides: &#39;&amp;rsquo;
+&amp;mdash;.&lt;/p&gt;
+&lt;h1 id=&#34;otherwise-set-slides--4&#34;&gt;Otherwise, set &lt;code&gt;slides: &amp;quot;&amp;quot;&lt;/code&gt;.&lt;/h1&gt;
+&lt;p&gt;slides: &#39;&amp;rsquo;
+&amp;mdash;.&lt;/p&gt;
+&lt;h1 id=&#34;otherwise-set-slides--5&#34;&gt;Otherwise, set &lt;code&gt;slides: &amp;quot;&amp;quot;&lt;/code&gt;.&lt;/h1&gt;
+&lt;p&gt;slides: &#39;&amp;rsquo;
+&amp;mdash;.&lt;/p&gt;
+&lt;h1 id=&#34;otherwise-set-slides--6&#34;&gt;Otherwise, set &lt;code&gt;slides: &amp;quot;&amp;quot;&lt;/code&gt;.&lt;/h1&gt;
+&lt;h2 id=&#34;slides-&#34;&gt;slides: &#39;&amp;rsquo;&lt;/h2&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
